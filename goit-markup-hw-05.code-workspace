@@ -13,5 +13,7 @@
 			"path": "../goit-markup-hw-01/images"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "goit-markup-hw-05"
+	}
 }
